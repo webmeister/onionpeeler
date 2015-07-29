@@ -27,10 +27,6 @@ torservers = {
 			'Nick Merrill <nick AT calyx dot com> 14wntQ8cBdnhUVfYmDjXz6PbpSSX8nCtkr',
 		],
 	},
-	'Cyber Arabs': {
-		'contact': [
-		],
-	},
 	'DFRI': {
 		'contact': [
 			'DFRI <rpitor AT dfri dot se>',
