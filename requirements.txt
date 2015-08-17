@@ -1,4 +1,4 @@
 CacheControl
 Flask
-pygal
+pygal<2
 requests
