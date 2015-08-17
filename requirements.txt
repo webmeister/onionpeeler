@@ -1,4 +1,5 @@
 CacheControl
 Flask
-pygal<2
+pygal>=2
+pygal_maps_world
 requests

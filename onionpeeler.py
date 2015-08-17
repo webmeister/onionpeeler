@@ -82,7 +82,7 @@ def map(path):
 		except KeyError:
 			flask.abort(404)
 
-	chart = pygal.Worldmap()
+	chart = pygal.maps.world.World()
 	chart.title = operator.name + ' Nodes'
 
 	if operator.subgroups:
