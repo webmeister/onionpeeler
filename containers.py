@@ -47,7 +47,7 @@ class Relays:
 				result = []
 			else:
 				if index != 0:
-					sources[0], sources[index] = sources[index], sources[0]
+					self.sources[0], self.sources[index] = self.sources[index], self.sources[0]
 				break
 
 		if result != self.data:
