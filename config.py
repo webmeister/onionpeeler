@@ -82,7 +82,7 @@ torservers = {
 	'Torservers.net': {
 		'contact': [
 			'Torservers.net <support .AT. torservers .DOT. net>',
-			'"https://www.torservers.net/donate.html <support .AT. torservers .DOT. net>"',
+                        'https://www.torservers.net/donate.html <support .AT. torservers .DOT. net>',
 		],
 	},
 }
